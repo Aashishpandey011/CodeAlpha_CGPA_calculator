@@ -1,1 +1,2 @@
-# CodeAlpha_CGPA_calculator
+A CGPA Calculator in C++ is a simple console- based program designed to calculate the Cumulative Grade Point Avarange of a student based on the grades and credit hours of multiple subjects.
+It helps students easily determine their academic performance without manual calculations, this program is a part of the CodeAloha Intership Task.
